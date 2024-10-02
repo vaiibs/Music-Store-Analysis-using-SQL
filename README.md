@@ -1,4 +1,4 @@
-# Music-Store-Analysis
+# Music Store Analysis
 
 This project demonstrates how to explore and analyze a music playlist database for an online music store using SQL.
 
